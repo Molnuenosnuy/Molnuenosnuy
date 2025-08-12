@@ -1,15 +1,19 @@
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlnbmJuNHFmdXBzZzd5MThzZTJwNWc0ejNkaWJoZzl3NWRzdXNzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ptqAPgghLtHOa0SLJS/giphy.gif" width="250"/>
+</div>
+
 <!-- Бейджи: Telegram, LeetCode и др. -->
 <div id="badges" align="center">
-  <a href="https://t.me/Koval_Skii" target="_blank" rel="noreferrer" style="text-decoration: none !important;">
+  <a href="https://t.me/Koval_Skii" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://stepik.org/users/598746551/profile" target="_blank" rel="noreferrer" style="text-decoration: none !important;">
+  <a href="https://stepik.org/users/598746551/profile" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Stepik-black?logo=stepic&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://leetcode.com/u/Molnuenosnuy/" target="_blank" rel="noreferrer" style="text-decoration: none !important;">
+  <a href="https://leetcode.com/u/Molnuenosnuy/" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=yellow&style=for-the-badge"/>
   </a>
-  <a href="https://www.codewars.com/users/Molnuenosnuy" target="_blank" rel="noreferrer" style="text-decoration: none !important;">
+  <a href="https://www.codewars.com/users/Molnuenosnuy" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=black&style=for-the-badge"/>
   </a>
 </div>
