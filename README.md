@@ -62,7 +62,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://airflow.apache.org" target="_blank" rel="noreferrer">
-    <img src="https://airflow.apache.org/docs/_static/airflow-logo.png" alt="apache-airflow" width="40" height="40"/>
+    <img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Apache-Airflow-Logo.png" alt="apache-airflow" width="40" height="40"/>
   </a>
   <a href="https://jupyter.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
