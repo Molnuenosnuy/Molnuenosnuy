@@ -17,7 +17,7 @@
 </div>
 
 
-<h3>Languages and Tools:</h3>
+<h3>Technology Stack used:</h3>
 <p>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
