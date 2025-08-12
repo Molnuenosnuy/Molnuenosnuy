@@ -15,3 +15,6 @@
   <img src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=black&style=for-the-badge"/>
 </a>
 </div>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Molnuenosnuy&style=flat-square&color=blue" alt="profile views" />
+</p>
