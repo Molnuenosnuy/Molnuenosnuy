@@ -53,7 +53,7 @@
     <img src="https://manjaro.org/logo.svg" alt="manjaro" width="40" height="40"/>
   </a>
   <a href="https://endeavouros.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/EndeavourOS_Logo.svg" alt="endeavouros" width="40" height="40"/>
+    <img src="https://i0.wp.com/endeavouros.com/wp-content/uploads/2021/04/cropped-Endeavour-horizontal-white.png?w=690&ssl=1" alt="endeavouros" width="40" height="40"/>
   </a>
   <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
