@@ -17,7 +17,9 @@
 </div>
 
 
-<h3 style="text-align: center;">Technology Stack used:</h3>
+<div align="center">
+  <h3>Technology Stack used:</h3>
+</div>
 <div style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
