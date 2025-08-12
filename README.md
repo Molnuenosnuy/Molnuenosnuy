@@ -11,7 +11,4 @@
   <a href="https://leetcode.com/u/Molnuenosnuy/">
     <img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=yellow&style=for-the-badge"/>
   </a>
-  <a href="https://www.codewars.com/users/Molnuenosnuy">
-    <img src="https://img.shields.io/badge/CodeWars-red?logo=codewars&logoColor=black&style=for-the-badge"/>
-  </a>
 </div>
