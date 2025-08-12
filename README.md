@@ -5,10 +5,4 @@
   <a href="https://t.me/Koval_Skii">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://stepik.org/users/598746551/profile">
-    <img src="https://img.shields.io/badge/Stepik-black?logo=stepic&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://leetcode.com/u/Molnuenosnuy/">
-    <img src="https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=yellow&style=for-the-badge"/>
-  </a>
 </div>
