@@ -18,84 +18,116 @@
 
 
 <h3>Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: flex-start; align-items: center; padding: 10px 0;">
+<div style="display: flex; flex-wrap: wrap; gap: 14px; justify-content: flex-start; padding: 10px 0;">
   <!-- Git -->
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+  <span style="background: white; padding: 6px; border-radius: 6px;">
+    <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+  </span>
 
   <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
+  <span style="background: white; padding: 6px; border-radius: 6px;">
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    </a>
+  </span>
 
   <!-- MySQL -->
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
+  <span style="background: white; padding: 6px; border-radius: 6px;">
+    <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+  </span>
 
   <!-- SQLite -->
-  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
+  <span style="background: white; padding: 6px; border-radius: 6px;">
+    <a href="https://www.sqlite.org" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+    </a>
+  </span>
 
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+  <span style="background: white; padding: 6px; border-radius: 6px;">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+  </span>
 
   <!-- NumPy -->
-  <a href="https://numpy.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/>
-  </a>
+  <span style="background: white; padding: 6px; border-radius: 6px;">
+    <a href="https://numpy.org" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/>
+    </a>
+  </span>
 
   <!-- Pandas -->
-  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
+  <span style="background: white; padding: 6px; border-radius: 6px;">
+    <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    </a>
+  </span>
 
   <!-- Qt -->
-  <a href="https://www.qt.io" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
-  </a>
+  <span style="background: white; padding: 6px; border-radius: 6px;">
+    <a href="https://www.qt.io" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
+    </a>
+  </span>
 
-  <!-- Visual Studio Code -->
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
+  <!-- VS Code -->
+  <span style="background: white; padding: 6px; border-radius: 6px;">
+    <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+    </a>
+  </span>
 
-  <!-- Linux (Ubuntu) -->
-  <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
-  </a>
+  <!-- Linux: Ubuntu -->
+  <span style="background: white; padding: 6px; border-radius: 6px;">
+    <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40" height="40"/>
+    </a>
+  </span>
 
-  <!-- Linux (Manjaro) -->
-  <a href="https://manjaro.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/manjaro/manjaro-icon.svg" alt="manjaro" width="40" height="40"/>
-  </a>
+  <!-- Linux: Manjaro -->
+  <span style="background: white; padding: 6px; border-radius: 6px;">
+    <a href="https://manjaro.org" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Manjaro_Logo.svg" alt="manjaro" width="40" height="40"/>
+    </a>
+  </span>
 
-  <!-- Linux (EndeavourOS) -->
-  <a href="https://endeavouros.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/endeavouros/endeavouros-icon.svg" alt="endeavouros" width="40" height="40"/>
-  </a>
+  <!-- Linux: EndeavourOS -->
+  <span style="background: white; padding: 6px; border-radius: 6px;">
+    <a href="https://endeavouros.com" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/EndeavourOS_Logo.svg" alt="endeavouros" width="40" height="40"/>
+    </a>
+  </span>
 
   <!-- Scikit-learn -->
-  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
+  <span style="background: white; padding: 6px; border-radius: 6px;">
+    <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+    </a>
+  </span>
 
   <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
+  <span style="background: white; padding: 6px; border-radius: 6px;">
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    </a>
+  </span>
 
   <!-- Apache Airflow -->
-  <a href="https://airflow.apache.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="apache-airflow" width="40" height="40"/>
-  </a>
+  <span style="background: white; padding: 6px; border-radius: 6px;">
+    <a href="https://airflow.apache.org" target="_blank" rel="noreferrer">
+      <img src="https://airflow.apache.org/docs/_static/airflow-logo.png" alt="apache-airflow" width="40" height="40"/>
+    </a>
+  </span>
 
   <!-- Jupyter Notebook -->
-  <a href="https://jupyter.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
-  </a>
+  <span style="background: white; padding: 6px; border-radius: 6px;">
+    <a href="https://jupyter.org" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/>
+    </a>
+  </span>
 </div>
